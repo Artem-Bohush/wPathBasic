@@ -10,7 +10,8 @@
   [
     { "name" : "Kostiantyn Wandalen", "email" : "wanalen@01.school" },
     { "name" : "Volodymyr M.", "email" : "volodymyr.migdal@gmail.com" },
-    { "name" : "Dmytro Kryvoruchko", "email" : "dm.vict.kr@gmail.com" }
+    { "name" : "Dmytro Kryvoruchko", "email" : "dm.vict.kr@gmail.com" },
+    { "name" : "Artem Bohush", "email" : "art.bohush@gmail.com" }
   ],
   "main" : "proto/dwtools/abase/l3/PathsBasic.s",
   "files" : [ "proto/dwtools/abase/l2", "proto/dwtools/abase/l3", "proto/dwtools/Tools.s" ],
